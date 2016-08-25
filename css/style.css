@@ -1,0 +1,62 @@
+.main-class {
+  width: 100%
+}
+
+.text-container {
+  width: 80%;
+  height: 825px;
+  padding-top: 50px;
+  font-size:medium;
+  font-family: sans-serif;
+  margin:auto;
+}
+.welcome {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.main-text {
+  margin:auto;
+}
+.icon-container {
+  height: 600px;
+  padding-top: 100px;
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon-container .icon img {
+  width: 20%;
+  padding-left: 13px;
+  padding-right: 13px;
+}
+
+.footer-class {
+  width: 70%;
+  margin: auto;
+  display: inline;
+}
+.footer-text {
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+  width: 90%;
+  height: auto;
+}
+.policies {
+  width: 250px;
+  height: auto;
+  margin:auto;
+}
+
+.terms {
+  float:left;
+}
+
+.privacy {
+  float: right;
+}
